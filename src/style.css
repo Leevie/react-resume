@@ -1,0 +1,80 @@
+.main-body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    max-width: 1080px;
+    margin: auto;
+}
+
+.name-head {
+    font-size: 3.5em;
+    letter-spacing: .6em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    padding-bottom: 1em;
+}
+
+main { 
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-top: 3em;
+}
+
+.header-bar {
+    font-size: 100%;
+    text-align: center;
+    margin: auto 2em;
+}
+
+section {
+    margin: auto 1em 4em 2em;
+}
+
+i {
+    margin-right: .5em;
+}
+
+p {
+    margin: .2em auto
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+h1, h2 {
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+
+
+.contact-sec {
+    font-size: 1em;
+}
+
+.skills-sec {
+    font-size: 1em;
+}
+
+.edu-sec {
+    font-size: 1em;
+}
+
+.mainLeft {
+    border-right: 1px solid lightgray;
+ }
+
+ .job-head {
+     font-size: 125%;
+     font-weight: bold;
+ }
+
+ .portfolio-card {
+    width: auto; max-width: 300px;
+ }
