@@ -17,9 +17,6 @@ export default function MainLeft(){
                     <i className="fab fa-linkedin" aria-hidden="true"></i>
                     <a href="http://linkedin.com/in/leevie" target="_blank" rel="noreferrer">Leevie Martin on LinkedIn</a>
                 </p>
-                <p>
-                    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="leevie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/leevie?trk=profile-badge">Leevie Martin</a></div>
-                </p>
             </section>
             <section className="skills-sec">
                 <h2>SKILLS</h2>
@@ -66,7 +63,6 @@ export default function MainLeft(){
                 </div>
               </div>
         </section>
-        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     </article>
     )
 }
