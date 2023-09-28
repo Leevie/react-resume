@@ -66,6 +66,7 @@ export default function MainLeft(){
                 </div>
               </div>
         </section>
+        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     </article>
     )
 }
